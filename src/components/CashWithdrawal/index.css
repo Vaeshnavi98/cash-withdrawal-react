@@ -1,0 +1,65 @@
+.div-deco1 {
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.div-deco2 {
+  background-color: #150b3e;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 5 0px;
+  width: 600px;
+  height: 600px;
+}
+.div-deco3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  padding: 10px;
+}
+.para-deco {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: #c7d2f3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: #7c3aed;
+}
+.head-deco {
+  color: #d4d2db;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.div-deco4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+  margin-bottom: 10px;
+}
+.para-deco1 {
+  color: #585076;
+  font-size: 20px;
+}
+.head-deco1 {
+  color: #ffffff;
+}
+.text-deco {
+  text-align: right;
+}
+.div-deco5 {
+  text-align: left;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
